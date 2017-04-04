@@ -1,0 +1,28 @@
+{
+  "name": "algosds",
+  "version": "1.0.0",
+  "description": "package for the algosDS repo",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ValentynaGorbachenko/algos_DS.git"
+  },
+  "keywords": [
+    "data",
+    "structure",
+    "algorithms"
+  ],
+  "author": "Valentyna Gorbachenko",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ValentynaGorbachenko/algos_DS/issues"
+  },
+  "homepage": "https://github.com/ValentynaGorbachenko/algos_DS#readme",
+  "devDependencies": {
+    "chai": "^3.5.0",
+    "mocha": "^3.2.0"
+  }
+}
