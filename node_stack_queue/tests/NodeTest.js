@@ -1,6 +1,6 @@
 "use strict";
-const Node = require("../Node");
-const Queue = require("../Queue");
+const Node = require("../Node"),
+	should = require("chai").should();
 /*
 let q = new Queue();
 console.log(q.size());
@@ -10,6 +10,7 @@ console.log(q);
 q.dequeue();
 console.log(q);
 */
+/*
 let myNode = new Node("a", new Node("b"), new Node("c"));
 // console.log(myNode);
 console.log("in order");
@@ -20,3 +21,4 @@ console.log("post order");
 myNode.postOrder();
 console.log("in level order");
 myNode.levelOrder();
+*/
