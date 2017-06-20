@@ -1,0 +1,14 @@
+{
+  "name": "node_stack_queue",
+  "version": "1.0.0",
+  "description": "package with Node and Queue classes, to run tests - npm test",
+  "main": "Node.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "../node_modules/mocha/bin/mocha"
+  },
+  "author": "Valentyna Gorbachenko",
+  "license": "MIT"
+}
